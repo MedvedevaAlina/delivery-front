@@ -1,0 +1,11 @@
+.auth-form {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  .form-container {
+
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+  }
+}
